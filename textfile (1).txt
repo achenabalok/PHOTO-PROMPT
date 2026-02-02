@@ -1,0 +1,51 @@
+{
+  "visual_prompt_structure": {
+    "subject_details": {
+      "identity": "Ana de Armas",
+      "demographics": "Adult female, celebrity",
+      "expression": "Soft, confident, alluring gaze, subtle smile",
+      "pose": "Varied (Frontal portrait, slight 3/4 turn, over-the-shoulder glance)"
+    },
+    "physical_attributes": {
+      "hair": {
+        "color": "Dark brunette with subtle warm highlights",
+        "style": "Long, glossy loose waves, deep side part, cascading over one shoulder",
+        "texture": "Silky, voluminous"
+      },
+      "eyes": "Hazel-green, bright, almond-shaped",
+      "skin": "Fair tone, radiant, dewy finish"
+    },
+    "attire": {
+      "garment_type": "Evening gown",
+      "color": "Black",
+      "fabric_texture": "Heavily beaded/sequined, glistening, textured",
+      "design_elements": [
+        "Spaghetti straps",
+        "Plunging V-neckline",
+        "Low back/backless",
+        "Fitted bodice"
+      ]
+    },
+    "accessories": {
+      "necklace": "Delicate diamond chain with a central teardrop pendant (lavalier style)",
+      "earrings": "Small, discreet diamond studs",
+      "style": "Minimalist elegant jewelry"
+    },
+    "makeup_style": {
+      "theme": "Natural Soft Glam",
+      "lips": "Satin finish mauve/rosy-nude lipstick",
+      "cheeks": "Soft peach/pink blush, subtle contour",
+      "eyes": "Champagne shimmer on lids, defined upper lash line, mascara, natural fluffy brows"
+    },
+    "environment_and_lighting": {
+      "setting": "Red carpet event or high-profile gala",
+      "background": "Blurred warm tones, beige and gold architectural elements, soft bokeh effect",
+      "lighting_quality": "Soft, diffused event lighting, warm color temperature, flattering face illumination"
+    },
+    "image_quality": {
+      "style": "High-resolution celebrity portrait photography",
+      "focus": "Sharp focus on the face and eyes",
+      "depth_of_field": "Shallow (blurred background)"
+    }
+  }
+}
